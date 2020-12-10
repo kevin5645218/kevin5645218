@@ -1,5 +1,5 @@
 ### Hi! I am a master student majoring in computer vision.
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin5645218&show_icons=true&theme=gruvbox&count_private=true)
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin5645218&show_icons=true&theme=slateorange&count_private=true)
 
 
 <!--
