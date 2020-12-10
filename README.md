@@ -1,6 +1,6 @@
 ### Hi! I am a master student majoring in computer vision.
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin5645218&show_icons=true&theme=radical)
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin5645218&show_icons=true)]
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin5645218&show_icons=true&theme=radical&count_private=true)
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin5645218&show_icons=true&count_private=true)]
 <!--
 **kevin5645218/kevin5645218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
