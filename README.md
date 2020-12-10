@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm a master student, major in computer vision!
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
