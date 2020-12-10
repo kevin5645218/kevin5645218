@@ -1,5 +1,4 @@
-### ✨ Hi! I am a master student majoring in computer vision.✨
-/play trololo
+### ✨ Hi! I am a master student majoring in computer vision. :mortar_board:
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin5645218&show_icons=true&theme=gruvbox&count_private=true)
 
